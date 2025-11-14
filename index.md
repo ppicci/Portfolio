@@ -7,3 +7,4 @@ title: My GitHub Pages Site
 
 This is my homepage hosted on GitHub Pages.
 
+Projects will be added soon
